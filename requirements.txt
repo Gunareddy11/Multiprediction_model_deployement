@@ -1,6 +1,7 @@
 numpy==2.3.0
 streamlit==1.46.1
 torch==2.7.1
+streamlit-option-menu
 
 
 
